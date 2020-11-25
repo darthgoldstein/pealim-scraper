@@ -1,0 +1,19 @@
+{
+  "name": "pealim-scraper",
+  "version": "1.0.0",
+  "description": "Programmatically scrapes pealim.com for all Hebrew vocabulary and conjugation tables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darthgoldstein/pealim-scraper.git"
+  },
+  "author": "Benjamin Goldstein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darthgoldstein/pealim-scraper/issues"
+  },
+  "homepage": "https://github.com/darthgoldstein/pealim-scraper#readme"
+}
